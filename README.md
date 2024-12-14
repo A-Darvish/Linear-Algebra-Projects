@@ -69,8 +69,8 @@ pip install numpy
 
 ## Project Structure
 ```
-|-- p1.py  # Null Space Basis and Normalization
-|-- p2.py  # Iterative PageRank Calculation
+|-- p1  # Null Space Basis and Normalization
+|-- p2  # Iterative PageRank Calculation
     |-- graph.txt  # Example input graph (used in Project 2)
 ```
 
