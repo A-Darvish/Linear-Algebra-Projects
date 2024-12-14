@@ -71,6 +71,6 @@ pip install numpy
 ```
 |-- p1.py  # Null Space Basis and Normalization
 |-- p2.py  # Iterative PageRank Calculation
-|-- graph.txt  # Example input graph (used in Project 2)
+    |-- graph.txt  # Example input graph (used in Project 2)
 ```
 
